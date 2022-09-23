@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using RestaurantRanterMVC.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
